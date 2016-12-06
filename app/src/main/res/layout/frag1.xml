@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#a51335"
+        android:textAlignment="viewEnd"
+        android:textSize="17sp"
+        android:text="\n
+ 1. Juliana Alves\n\n
+ 2. Babi Rossi\n\n
+ 3. Paola Oliveira\n\n
+ 4. Sheron Menezes\n\n
+ 5. Andressa Soares\n\n
+ 6. Fernanda Paes Leme\n\n
+ 7. Eva Andressa\n\n
+ 8. Andressa Urach\n\n
+ 9. Juju Maia\n\n
+ 10.Carol Narizinho\n\n
+"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>
